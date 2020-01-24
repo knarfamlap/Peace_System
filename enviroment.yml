@@ -1,0 +1,14 @@
+name: peace-system
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
+    - scipy
+    - sklearn
+    - seaborn
+    - statsmodels
