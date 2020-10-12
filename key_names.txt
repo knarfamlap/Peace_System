@@ -1,0 +1,10 @@
+'ID1.1Over' : 'Overarching Identity',
+'Int2.4Hist' : 'Interconnected Historically', 
+'Int2.2Econ' : 'Interconnected Economically',
+'Dep3.3Econ' : 'Interdependent Economically', 
+'Dep3.2Ecol' : 'Interdependent Ecologically',
+'NWNorm5.1': 'Non-Warring Norms', 
+'NWVal4.1' : 'Non-Warring Values', 
+'SymP6': 'Peace Symbols',
+'RitP6' : 'Peace Rituals', 
+'CM8.5Peace' : 'Peaceful Conflict Management Overall'
